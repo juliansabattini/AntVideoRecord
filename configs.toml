@@ -1,0 +1,23 @@
+[tiempo]
+fh_inicio = 2021-08-18T06:25:00 # YYYY-MM-DDThh:mm:ss
+duracion_videos = 00:05:00 # hh:mm:ss
+cantidad_videos = 10
+
+[grabacion]
+res_x = 640
+res_y = 480
+convert_mp4 = true
+
+[preview]
+on = true
+fullscreen = false
+pos_x = 0
+pos_y = 0
+scale = 3
+
+[crop] # No está chequeado, mejor no utilizar
+on = false
+x = 0.0
+y = 0.0
+w = 1.0
+h = 1.0
