@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=AntVRecordOS
 Comment=Some comment
-Icon=/usr/share/pixmaps/openbox.xpm
+Icon=/home/pi/Desktop/AntVideoRecord/hormiga_icon.png
 Exec=python3 "/home/pi/Desktop/AntVideoRecord/main_original.py"
 Path=/home/pi/Desktop/AntVideoRecord
 Type=Application
