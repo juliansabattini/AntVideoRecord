@@ -60,7 +60,7 @@
 1. Once Raspbian has restarted, open a terminal windows and type:
 	```
 	cd Desktop
-	git clone https://www.github.com/fd-sturniolo/ant_project
+	git clone https://www.github.com/juliansabattini/AntVideoRecord
 	```
 2. Install the necessary library for the operation AntVRecord OS, open a terminal Windows and type:
 	```
